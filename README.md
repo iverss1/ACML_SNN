@@ -52,4 +52,6 @@ Python load_model.py
 The training results are automatically output when training finishes and the ```.csv``` file can be found.
 The Validation results are presented in your own IDE console.
 Example as:
-<img src="figure/umap.png" title="Validation results" width=500>
+
+<img src="properties/figure/ACC.png" title="Validation accuracy" width=500>
+<img src="properties/figure/MAC.png" title="Validation accuracy" width=500>
