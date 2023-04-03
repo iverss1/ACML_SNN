@@ -7,6 +7,8 @@ If you are using Anaconda, you might want to use virtual environment.
 conda create -n SNN python=3.7 -y
 conda activate SNN
 ```
+This work are based on Pytorch 1.13.1, download instructions can be found on the official website.
+
 You can install the required dependencies using pip/conda.
 ```bash
 pip install -r requirements.txt
