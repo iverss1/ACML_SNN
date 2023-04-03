@@ -1,6 +1,7 @@
 # ECML_SNN
 Training a General Spiking Neural Network with Improved Efficiency and Minimum Latency
 this is the accompanied code of submission of *Training a General Spiking Neural Network with Improved Efficiency and Minimum Latency*:
+* Note：due to the size of the model, please download the SNN.zip file and follow the instructions below to complete the training and verification.
 ## Setup
 If you are using Anaconda, you might want to use virtual environment.
 ```bash
