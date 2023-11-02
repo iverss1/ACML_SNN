@@ -65,6 +65,6 @@ If you find our work helpful for your research, please consider citing our paper
     @inproceedings{ACMLSNN23,
   	author={Yao, Yunpeng and Wu, Man and Chen, Zheng and Zhang, Renyuan},
   	booktitle = {The 15th Asian Conference on Machine Learning}, 
-  	title={Spiking Neural Network with Minimum Latency]{Training a General Spiking Neural Network with Improved Efficiency and Minimum Latency}, 
+  	title={Training a General Spiking Neural Network with Improved Efficiency and Minimum Latency}, 
   	year={2023},
   	series = {ACML '23}}
